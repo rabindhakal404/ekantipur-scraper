@@ -1,0 +1,3 @@
+-- i only used this one prompt in cursor at the end as there were some issues. I used claude and chatgpt to solve other issues while writing the code.
+
+1. there are still errors in the title being repeated, images showimg the logo svg and others being null and also author name showing dates. fix that
